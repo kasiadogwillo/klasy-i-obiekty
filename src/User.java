@@ -6,8 +6,9 @@ public class User {
         //elementy składowe klasy
         //1. pola obiektu = z czego będzie składał się dany obiekt, np. co poże posiadać user?
 
-        String firstName;
-        String lastName;
-        String email;
-        int wiek;
+        String firstName; //null - wartość domyślna
+        String lastName; //null
+        String email; //null
+        int wiek; //0
+        boolean isAdult; //false
     }

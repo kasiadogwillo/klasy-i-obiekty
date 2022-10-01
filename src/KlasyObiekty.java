@@ -53,5 +53,18 @@ public class KlasyObiekty {
         System.out.println(seba.email);
         System.out.println(seba.wiek);
         System.out.println(seba.isAdult);
+
+        User kasia = new User();
+        kasia.firstName = "Katarzyna";
+        kasia.lastName = "Dogwiłło";
+        kasia.email = "katarzynadogwillo@gmail.com";
+        kasia.wiek = 35;
+        kasia.isAdult = true;
+
+        System.out.println(kasia.firstName);
+        System.out.println(kasia.lastName);
+        System.out.println(kasia.email);
+        System.out.println(kasia.wiek);
+        System.out.println(kasia.isAdult);
     }
 }
