@@ -2,10 +2,10 @@ public class KlasyObiekty {
     public static void main(String[] args) {
 
         //co to jest klasa
-            //template wykorzystywany do tworzenia podobnych do siebie obiektów
+        //template wykorzystywany do tworzenia podobnych do siebie obiektów
 
         //elementy składowe klasy
-            //1. pola obiektu = z czego będzie składał się dany obiekt, np. co poże posiadać user?
+        //1. pola obiektu = z czego będzie składał się dany obiekt, np. co poże posiadać user?
 
         //tworząc nową klasę, tworzymy typ obiektu
         //typ = nazwa klasy
